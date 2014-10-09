@@ -6,3 +6,8 @@
 meteor-platform
 autopublish
 insecure
+bootstrap
+accounts-password
+mrt:accounts-ui-bootstrap-dropdown
+iron:router
+
